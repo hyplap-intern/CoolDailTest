@@ -86,3 +86,5 @@ class LeadController extends Controller{
         return redirect()->route('lead.index')->with('success', 'Lead deleted successfully!');
     }
 }
+
+// A comment added after pushing on github
