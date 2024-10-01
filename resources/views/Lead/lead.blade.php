@@ -220,18 +220,3 @@
 </body>
 
 </html>
-<<<<<<< Tabnine <<<<<<<
-/**undefined+
- * Function to initialize and configure the DataTables plugin for the leads table.undefined+
- *undefined+
- * @return voidundefined+
- */undefined+
-$(document).ready(function() {undefined+
-    $('#leadsTable').DataTable({undefined+
-        responsive: true,undefined+
-        searching: true,undefined+
-        ordering: true,undefined+
-        paging: trueundefined+
-    });undefined+
-});undefined+
->>>>>>> Tabnine >>>>>>>undefined {"conversationId":"d0047f32-63ab-4992-a76e-e806622919c8","source":"instruct"}
